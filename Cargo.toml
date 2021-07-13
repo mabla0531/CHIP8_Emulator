@@ -1,5 +1,5 @@
 [package]
-name = "OS"
+name = "CHIP8_Emulator"
 version = "0.1.0"
 authors = ["Matthew Bland <MEBland8141@muleriders.saumag.edu>"]
 edition = "2018"
