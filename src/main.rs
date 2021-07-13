@@ -1,4 +1,5 @@
+use std::fs::File;
+
 fn main() {
-    //sheeeeesh
-    //fr tho
+    let file = File::open("")
 }
